@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "jest": "^28.1.1",
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "jest -i index.spec.js"
+  }
+}
